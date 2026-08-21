@@ -23,4 +23,4 @@
 ## HK VASP Interview
 > "Sir, live Deribit BTC 76,629, Top5 filter gives 0.38 bps edge $272/100BTC at 514K/sec. GARCH vol 65% vs IV 60% gives 500 bps vol edge at 892K/sec. Total 1.4M/sec handles 1000 instruments."
 
-Author: Nadkalpur Manjunath | 64, Gulbarga, Bangalore
+Author: Nadkalpur Manjunath | Hong Kong

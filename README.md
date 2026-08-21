@@ -20,7 +20,7 @@
 - Deterministic C++, no hidden state
 - Data lineage: timestamp in data/real_vol.json
 
-## HK VASP Interview
-> "Sir, live Deribit BTC 76,629, Top5 filter gives 0.38 bps edge $272/100BTC at 514K/sec. GARCH vol 65% vs IV 60% gives 500 bps vol edge at 892K/sec. Total 1.4M/sec handles 1000 instruments."
+## HK VASP Notes
+> "Live Deribit BTC 76,629, Top5 filter gives 0.38 bps edge $272/100BTC at 514K/sec. GARCH vol 65% vs IV 60% gives 500 bps vol edge at 892K/sec. Total 1.4M/sec handles 1000 instruments."
 
 Author: Nadkalpur Manjunath | Hong Kong

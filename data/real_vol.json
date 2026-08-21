@@ -1,0 +1,12 @@
+{
+  "realized_vol_annual": 0.029140502454913165,
+  "garch_vol_annual": 0.24207213684799478,
+  "realized_vol_raw": 0.029140502454913165,
+  "garch_vol_raw": 0.24207213684799478,
+  "price": 76629.19347527777,
+  "n_trades": 5000,
+  "n_sec_bars": 5000,
+  "n_min_bars": 84,
+  "timestamp_ms": 1787254759637,
+  "timestamp_human": "2026-08-21T01:09:19.637000"
+}

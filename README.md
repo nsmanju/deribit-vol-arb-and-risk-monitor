@@ -107,7 +107,7 @@ python3 python/test_cpp_vol.py
 
 ## Author
 
-Nadkalpur Manjunath | Gulbarga, Bangalore - C++23, SFC Type 4/9, HK VASP, Energy + Crypto Quant
+Nadkalpur Manjunath | Hong Kong - C++23, SFC Type 4/9, HK VASP, Energy + Crypto Quant
 Looking for consulting, advisory, or high-yield renewable contract work inside HK
 
 #QuantFinance #Cpp #Deribit #SFC #RenewableContract #HongKong #Consulting #Advisory
